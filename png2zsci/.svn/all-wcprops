@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/zdallas/!svn/ver/9518/dallas_castle/trunk/tools/png2zsci
+END
+png2zsci.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/zdallas/!svn/ver/9518/dallas_castle/trunk/tools/png2zsci/png2zsci.cpp
+END
+alphacompress.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/zdallas/!svn/ver/9518/dallas_castle/trunk/tools/png2zsci/alphacompress.cpp
+END
+alphacompress.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/zdallas/!svn/ver/9518/dallas_castle/trunk/tools/png2zsci/alphacompress.h
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/zdallas/!svn/ver/9518/dallas_castle/trunk/tools/png2zsci/README.TXT
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/zdallas/!svn/ver/9518/dallas_castle/trunk/tools/png2zsci/makefile
+END
